@@ -6,7 +6,7 @@
 - **extra_assignment_1_abloch.py** contains the code of the extra assignment
 
 ## Comments about Solutions
-The performance of the LogisticRegression classifier is really bad. The ROC shows that the classifier is as good as a random classifier. There are several things I'd try to improve the classification performance:
-- select the features in a TF-IDF-manner (but that's not what was asked)
+The performance of the LogisticRegression classifier is really bad. The ROC shows that the classifier is as good as a random classifier. There are several things I'd try to improve the classification performance (but we weren't asked to do them):
+- select the features in a TF-IDF-manner
 - use all of the data
 - use a more complex classifier
