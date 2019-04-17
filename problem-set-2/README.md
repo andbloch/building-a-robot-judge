@@ -5,4 +5,4 @@
 - **problem_set_2_abloch.pdf** shows the output of an execution of the notebook
 - **data_creation_and_loader.py** does all the preprocessing of the data and provides featurized datasets. More information about how to get the preprocessed datasets is in the data folder.
 
-Note that my solution solves exercises 1 and 5 together, as the exercises were very related and it makes sense to compare the models on teh same plots.
+Note that my solution solves exercises 1 and 5 together. As the exercises are very related I thought it makes sense to compare the models on the same plots.
